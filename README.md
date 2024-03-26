@@ -4,7 +4,7 @@ A simple repo to hold old versions of Backups for Fortnite and VALORANT. I hope 
 
 ## Fortnite
 
-[Version 28.10](Fortnite/FortniteGame_28_10.fbkp)
+[Version 28.10](https://github.com/RogueMew/FModel-backups-archive/blob/main/Fortnite/FortniteGame_28_10.fbkp)
 
 [Version 28.20](Fortnite/FortniteGame_28_20.fbkp)
 
