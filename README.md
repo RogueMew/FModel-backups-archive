@@ -4,8 +4,9 @@ A simple repo to hold old versions of Backups for Fortnite and VALORANT. I hope 
 
 ## Fortnite
 
-[Version 28.10](https://raw.githubusercontent.com/RogueMew/FModel-backups-archive/main/Fortnite/FortniteGame_28_10.fbkp)
+### Official Updates
 
+[Version 28.10](https://raw.githubusercontent.com/RogueMew/FModel-backups-archive/main/Fortnite/FortniteGame_28_10.fbkp)
 
 [Version 28.20](https://raw.githubusercontent.com/RogueMew/FModel-backups-archive/main/Fortnite/FortniteGame_28_20.fbkp)
 
@@ -15,7 +16,13 @@ A simple repo to hold old versions of Backups for Fortnite and VALORANT. I hope 
 
 [Version 29.01](https://raw.githubusercontent.com/RogueMew/FModel-backups-archive/main/Fortnite/FortniteGame_29_01.fbkp)
 
+### Daily Backups with New Content (Checked Day After Pulled)
+
+
 ## VALORANT
 
 [Patch 8.05](https://raw.githubusercontent.com/RogueMew/FModel-backups-archive/main/VALORANT/VALORANT_8_05.fbkp)
 
+### Daily Back Ups Daily Backups with New Content (Checked Day After Pulled)
+
+[]
