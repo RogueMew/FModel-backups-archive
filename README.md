@@ -27,4 +27,4 @@ A simple repo to hold old versions of Backups for Fortnite and VALORANT. I hope 
 
 ### Daily Back Ups Daily Backups with New Content (Checked Day After Pulled)
 
-[3/30/24](./VALORANT/VALORANT-Daily-Checks/VALORANT_8_05_01.fbkp) - Added or Edited Some of Cloves Animations
+[3/30/24](./VALORANT/VALORANT-Daily-Checks/VALORANT_8_05_01.fbkp) - Added or Edited Some of Cloves Items
