@@ -1,21 +1,6 @@
 # Fmodel Backup Archive
 
-A simple repo to hold old versions of Backups for Fortnite and VALORANT. I hope to expand this repo when I have a better pc to include more games
-
-## Fortnite
-
-### Official Updates
-
-[Version 28.10](./Fortnite/Fortnite-Official-Patches/FortniteGame_28_10.fbkp)
-
-[Version 28.20](./Fortnite/Fortnite-Official-Patches/FortniteGame_28_20.fbkp)
-
-[Version 28.30](./Fortnite/Fortnite-Official-Patches/FortniteGame_28_30.fbkp)
-
-[Version 29.00](./Fortnite/Fortnite-Official-Patches/FortniteGame_29_00.fbkp)
-
-[Version 29.01](./Fortnite/Fortnite-Official-Patches/FortniteGame_29_01.fbkp)
-
+A simple repo to hold old versions of Backups for VALORANT. I hope to expand this repo when I have a better pc to include more games
 
 ## VALORANT
 
@@ -34,3 +19,5 @@ A simple repo to hold old versions of Backups for Fortnite and VALORANT. I hope 
 [4/2/24](./VALORANT/VALORANT-Daily-Checks/VALORANT_04_02_2024.fbkp)
 
 [4/5/24](./VALORANT/VALORANT-Daily-Checks/VALORANT_04_05_2024.fbkp)
+
+[4/7/24](./VALORANT/VALORANT-Daily-Checks/VALORANT_04_07_2024.fbkp)
